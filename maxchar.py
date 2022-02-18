@@ -1,3 +1,7 @@
+# Fathan Ananta Nur
+# 18219008
+
+
 with open('textsample.txt', 'r') as file:
     string = file.read().replace('\n', '').replace(' ', '')
 
